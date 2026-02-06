@@ -1,0 +1,5 @@
+{
+  "name": "ZapFlow Automator",
+  "description": "A smart queue manager that processes contacts from Google Sheets (CSV), generates AI messages using Gemini, and automates the timing of WhatsApp communications.",
+  "requestFramePermissions": []
+}
